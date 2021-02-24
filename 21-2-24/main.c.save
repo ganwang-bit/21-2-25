@@ -1,0 +1,63 @@
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main()
+//{
+//    printf("Hello world!\n");
+//    return 0;
+//}
+//#include<stdio.h>
+//#include<stdlib.h>
+//#include<string.h>
+//#include<ctype.h>
+//int main()
+//{
+//    char arr1[85],arr2[85],arr3[85]={0};
+//    int i=0,count=0;
+//    gets(arr1);
+//    gets(arr2);
+//    while(arr1[i])
+//    {
+//        if(islower(arr1[i]))
+//            arr1[i]=toupper(arr1[i]);
+//        if(strchr(arr2,arr1[i]))
+//        {
+//            if(!strchr(arr3,arr1[i]))
+//            {
+//                arr3[count]=arr1[i];
+//                count++;
+//            }
+//        }
+//        i++;
+//    }
+//    printf("%s",arr3);
+//    return 0;
+//}
+//#include<stdio.h>
+//#include<stdlib.h>
+//#include<string.h>
+//#include<ctype.h>
+//int main()
+//{
+//    char arr1[85],arr2[85],arr3[85]={0};
+//    int i=0,count=0;
+//    gets(arr1);
+//    gets(arr2);
+//    while(arr1[i])
+//    {
+//        if(!strchr(arr2,arr1[i]))
+//        {
+//            if(islower(arr1[i]))
+//                arr1[i]=toupper(arr1[i]);
+//            if(!strchr(arr3,arr1[i]))
+//            {
+//                arr3[count]=arr1[i];
+//                count++;
+//            }
+//        }
+//        i++;
+//    }
+//    printf("%s",arr3);
+//    return 0;
+//}
+
